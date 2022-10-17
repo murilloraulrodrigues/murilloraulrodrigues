@@ -6,7 +6,7 @@
 - 🌱 Eu estou aprendendo a programar, recentemente, as liguagens JavaScript e Scrath
 - :sweat_smile: Eu tenho 15 anos.
 - :relaxed: Trabalho em uma lanchonete.
-- :disguised_face: Ganhei um premio de melhor desenhista com apenas 9 anos em um corcurso de desenho.
+- :disguised_face: Ganhei um premio de melhor desenhista com apenas 9 anos em um concurso de desenho.
 - :smiling_imp: Tenho interesse em atuar na aréa de TI.
 - :upside_down_face: Estou cursando o curso técnico de ElétroMecânica.
 - 💞️ I’m looking to collaborate on ...
