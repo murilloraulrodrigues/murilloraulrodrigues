@@ -3,7 +3,7 @@
 - 👋 Olá meu nome é @murilloraulrodrigues
 - 👍 Meu gmail de contato é murilloraul8474@gmail.com
 - 👀 Eu estou interessado em aprender a programar novas linguagens.
-- 🌱 Eu estou aprendendo a programar, recentemente, as liguagens JavaScript e Scrath
+- 🌱 Eu estou aprendendo a progamar, recentemente, as liguagens JavaScript e Scrath
 - :sweat_smile: Eu tenho 15 anos.
 - :relaxed: Trabalho em uma lanchonete.
 - :disguised_face: Ganhei um premio de melhor desenhista com apenas 9 anos em um concurso de desenho.
